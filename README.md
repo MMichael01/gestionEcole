@@ -1,2 +1,3 @@
 # gestionEcole
-Mettons notre projet sur github =)
+
+MAJ : design de notre application + connection à la base de donnée.
